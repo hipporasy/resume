@@ -4,6 +4,8 @@ import PropTypes from 'prop-types';
 import anime from 'animejs';
 import styled from 'styled-components';
 import { IconLoader } from '@components/icons';
+import DecoderText from '../utils/decoder';
+import prerender from '../utils/prerender';
 
 const StyledLoader = styled.div`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -19,8 +21,8 @@ const StyledLoader = styled.div`
 
   .logo-wrapper {
     width: max-content;
-    max-width: 100px;
     transition: var(--transition);
+    font-size: 4rem;
     opacity: ${props => (props.isMounted ? 1 : 0)};
     svg {
       display: block;
@@ -86,7 +88,7 @@ const Loader = ({ finishLoading }) => {
       <Helmet bodyAttributes={{ class: `hidden` }} />
 
       <div className="logo-wrapper">
-        <IconLoader />
+        {/*<DecoderText className="big-heading" text="Marasy Phi" start={!prerender} delay={300} />*/}
       </div>
     </StyledLoader>
   );
