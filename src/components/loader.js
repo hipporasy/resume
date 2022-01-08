@@ -88,7 +88,7 @@ const Loader = ({ finishLoading }) => {
       <Helmet bodyAttributes={{ class: `hidden` }} />
 
       <div className="logo-wrapper">
-        {/*<DecoderText className="big-heading" text="Marasy Phi" start={!prerender} delay={300} />*/}
+        <DecoderText className="big-heading" text="Marasy Phi" start={!prerender} delay={300} />
       </div>
     </StyledLoader>
   );
