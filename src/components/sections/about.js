@@ -145,7 +145,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hell! My name is Marasy and II like to learn new things, I love solving problems.
+              Hello! My name is Marasy and II like to learn new things, I love solving problems.
               Throughout my career, I have been driven by my intellectual curiosity to provide solutions to the most
               pressing problems.
             </p>
