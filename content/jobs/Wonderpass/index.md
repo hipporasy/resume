@@ -1,12 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2021-07-1'
+title: 'Lead Developer'
+company: 'Wonderpass'
+location: 'Cambodia, PP'
+range: 'July 2021 - Present'
+url: 'https://wonderpass.asia'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Working in the Backend for Wonderpass project.
+- Leading in-house Team to delivered such an amazing project.
+- Work closely with both developer, product owner and designer in the Agile Team.
+- Delivered efficiency and high quality product the Market.
