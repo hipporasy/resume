@@ -61,11 +61,11 @@ const Hero = () => {
   }, []);
   const one = <h1>Hi, my name is</h1>;
   const two = <DecoderText className="big-heading" text="Marasy Phi" start={!prerender} delay={300}/>;
-  const three = <h3 className="big-heading">I love building amazing.</h3>;
+  const three = <h3 className="big-heading">I love building amazing products.</h3>;
   const four = (
     <>
       <p>
-        I am a software engineer, I love starting up, love being involve in Entrepreneurship
+        I am a software engineer, I love start-up, love being involved in Entrepreneurship
       </p>
     </>
   );
