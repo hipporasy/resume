@@ -41,6 +41,7 @@ const Head = ({ title, description, image }) => {
   return (
     <Helmet title={title} defaultTitle={seo.title} titleTemplate={`%s | ${defaultTitle}`}>
       <html lang="en" />
+      <link rel="icon" href="images/favicons/apple-touch-icon.png"/>
 
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
