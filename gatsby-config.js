@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Marasy Phi is a software engineer.',
     siteUrl: 'https://hipporasy.tech', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/logo.svg', // Path to your image you placed in the 'static' folder
     twitterUsername: '@hipporasy',
   },
   plugins: [
