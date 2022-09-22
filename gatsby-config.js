@@ -3,8 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Marasy Phi',
-    description:
-      'Marasy Phi is a software engineer.',
+    description: 'Marasy Phi is a software engineer.',
     siteUrl: 'https://hipporasy.tech', // No trailing slash allowed!
     image: '/logo.svg', // Path to your image you placed in the 'static' folder
     twitterUsername: '@hipporasy',
