@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'OutaApp'
 cover: './demo.png'
 github: 'https://github.com/hipporasy'
