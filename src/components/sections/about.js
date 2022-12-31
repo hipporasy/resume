@@ -162,10 +162,9 @@ const About = () => {
             </p>
 
             <p>
-              Last year, I made {' '}
-              <a href="https://www.youtube.com/channel/UCT1kUMoQLbU5jhUfTBl5jPA">
-                make a youtube channel
-              </a>{' '} for speed coding with SwiftUI and Flutter.
+              Now I moved to <a href="https://www.melbourne.vic.gov.au">Melbourne</a> to study at {' '}
+              <a href="https://www.swinburne.edu.au">Swinburne University of Technology</a> {' '}
+              for my master degree in {' '} Business Information System.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
