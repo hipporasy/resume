@@ -213,7 +213,7 @@ const Projects = () => {
 
   const projectInner = node => {
     const { frontmatter, html } = node;
-    const { github, external, title, tech } = frontmatter;
+    const { github, external, title, tech, ios } = frontmatter;
 
     return (
       <div className="project-inner">
@@ -236,6 +236,15 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer">
                   <Icon name="External" />
+                </a>
+              )}
+              {ios && (
+                <a
+                  href={ios}
+                  aria-label="Appstore Link"
+                  target="_blank"
+                  rel="noreferrer">
+                  <Icon name="Appstore" />
                 </a>
               )}
             </div>

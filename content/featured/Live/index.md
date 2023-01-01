@@ -2,8 +2,8 @@
 date: '1'
 title: 'LIVE. by Wonderpass'
 cover: './live.jpg'
-playstore: 'https://wonderpass.asia/download/app'
-appstore: 'https://wonderpass.asia/download/app'
+android: 'https://wonderpass.asia/download/app'
+ios: 'https://wonderpass.asia/download/app'
 external: 'https://wonderpass.asia/download/app'
 tech:
   - Swift
