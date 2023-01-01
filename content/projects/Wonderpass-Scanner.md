@@ -1,16 +1,16 @@
 ---
-date: '2020-08-02'
-title: 'The 19th News'
+date: '2021-06-01'
+title: 'Wonderpass Agent'
 github: ''
-external: 'https://19thnews.org/'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - Gutenberg
-  - PHP
-  - JS
-  - Mailchimp
-  - AMP
-company: 'Upstatement'
-showInProjects: false
+  - Kotlin
+  - Dagger
+  - Retrofit
+  - RFID
+company: 'Haystack Labs'
+showInProjects: true
 ---
+
+As LIVE, Campus, and RUPP are the user app we will need the app to validate the ticket. 
+Wonderpass Agent is the app that validate the tickets. The app supports RFID (eg. Scan the wristband that contains RFID to validate the ticket then enter the field)

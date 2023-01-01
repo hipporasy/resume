@@ -1,14 +1,11 @@
 ---
-date: '2016-03-01'
-title: 'Personal Website V1'
-github: 'https://github.com/bchiang7/v1'
-external: 'https://bchiang7.github.io/v1/'
+date: '2022-01-01'
+title: 'Spotify Redesign'
+github: 'https://github.com/hipporasy/spotify-redesign-app'
+external: https://www.youtube.com/watch?v=KkkVp2MCaR4&t=23s'
 tech:
-  - HTML
-  - CSS
-  - JS
-  - Bootstrap
+  - Flutter
+  - Dart
 showInProjects: true
 ---
 
-My first portfolio website I designed and built in 2014. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.

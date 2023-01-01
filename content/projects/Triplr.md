@@ -1,15 +1,12 @@
 ---
-date: '2015-12-01'
-title: 'One Card For All'
-github: ''
-external: 'https://us.mullenlowe.com/work/one-card-for-all/'
+date: '2020-02-08'
+title: 'Triplr'
+github: 'https://github.com/hipporasy/travel-app'
+external: 'https://www.youtube.com/watch?v=u2Ckuh3y02g'
 tech:
-  - HTML
-  - SCSS
-  - JS
-  - jQuery
-company: 'MullenLowe'
-showInProjects: false
+  - SwiftUI
+  - Swift
+  - SFSymbols
+showInProjects: true
 ---
 
-Interactive holiday site for MullenLowe built around an algorithm that generated a holiday greeting to each and every person on the planet. Check out this short [video](https://us.mullenlowe.com/work/one-card-for-all/) describing the project.

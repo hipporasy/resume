@@ -1,12 +1,14 @@
 ---
-date: '2021-07-01'
-title: 'Philadelphia Inquirer Sports Scoreboards'
+date: '2018-08-01'
+title: 'Workingna'
 github: ''
-external: 'https://www.inquirer.com/sports/'
+external: 'https://apps.apple.com/kh/app/workingna/id1449408274'
 tech:
-  - React
-  - TypeScript
-  - Stats Perform API
-company: 'Upstatement'
+  - UIKit
+  - RxSwift
+  - Swift
+
 showInProjects: false
 ---
+
+The App for finding career in Cambodia

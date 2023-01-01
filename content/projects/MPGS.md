@@ -1,14 +1,14 @@
 ---
-date: '2017-04-03'
-title: 'myNEU Redesign'
-github: 'https://github.com/bchiang7/Redesign-myNEU'
-external: 'https://bchiang7.github.io/Redesign-myNEU/'
+date: '2022-04-03'
+title: 'Proxy Middleware'
+github: ''
+external: ''
 tech:
-  - Jekyll
-  - SCSS
   - JS
-company: 'Northeastern'
+  - NodeJS
+  - Fastify
+  - Axios
+company: 'Haystack Labs'
 showInProjects: false
 ---
-
-Student web portal prototype built after conducting multiple rounds of user testing that aimed to improve the current portal to provide students at Northeastern University with a better user experience.
+A Proxy middleware between Merchant and MPGS

@@ -1,13 +1,11 @@
 ---
-date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '2017-11-01'
+title: 'Paters'
+github: ''
+external: 'https://apps.apple.com/ph/app/paters/id1219309685'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Swift
+  - UIKit
+  - RxSwift
 showInProjects: false
 ---
-
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.

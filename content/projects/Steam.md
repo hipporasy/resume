@@ -1,13 +1,15 @@
 ---
-date: '2017-10-01'
-title: 'Personal Website V3'
-github: 'https://github.com/bchiang7/bchiang7.github.io'
-external: 'https://bchiang7.github.io/v3/'
+date: '2023-01-01'
+title: 'Steam'
+github: 'https://github.com/hipporasy/steam'
+external: 'https://github.com/hipporasy/steam'
 tech:
-  - Jekyll
-  - SCSS
-  - JS
+  - SwiftUI
+  - Swift
+  - SFSymbols
 showInProjects: true
 ---
 
-Third iteration of my personal website built with Jekyll and hosted on GitHub Pages.
+The Steam App Concept redesign by [Oleg Pirogov](https://www.sketchappsources.com/free-source/4787-steam-mobile-app-concept-sketch-freebie-resource.html). 
+I like this design, so I wanna make it in SwiftUI
+
