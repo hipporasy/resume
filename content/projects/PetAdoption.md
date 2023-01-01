@@ -3,7 +3,6 @@ date: '2022-01-12'
 title: 'PetAdoption'
 github: 'https://github.com/hipporasy/pet-adoption'
 external: 'https://www.youtube.com/watch?v=9lboESQP9xY'
-external: ''
 tech:
   - SwiftUI
   - SF Symbols
