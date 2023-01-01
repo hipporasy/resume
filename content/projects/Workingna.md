@@ -7,7 +7,6 @@ tech:
   - UIKit
   - RxSwift
   - Swift
-
 showInProjects: false
 ---
 

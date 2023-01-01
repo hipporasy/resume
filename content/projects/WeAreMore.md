@@ -8,6 +8,7 @@ tech:
   - Swift
   - UIKit
 showInProjects: false
+company: 'Upwork'
 ---
 
 Maintain the project from Upwork 

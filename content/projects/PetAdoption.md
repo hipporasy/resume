@@ -8,7 +8,7 @@ tech:
   - SwiftUI
   - SF Symbols
   - Xcode
-company: 'Northeastern'
+company: 'Personal'
 showInProjects: false
 ---
 

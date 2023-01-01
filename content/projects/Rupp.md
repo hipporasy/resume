@@ -1,6 +1,6 @@
 ---
 date: '2022-08-20'
-title: 'Campus. By Wonderpass'
+title: 'RUPP. By Campus'
 github: ''
 ios: 'https://apps.apple.com/kh/app/rupp-by-campus/id1630133637'
 tech:

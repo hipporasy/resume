@@ -7,6 +7,7 @@ tech:
   - SwiftUI
   - Swift
   - SFSymbols
+company: 'Personal'
 showInProjects: true
 ---
 

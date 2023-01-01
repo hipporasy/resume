@@ -8,5 +8,6 @@ tech:
   - Swift
   - SFSymbols
 showInProjects: true
+company: 'Personal'
 ---
 

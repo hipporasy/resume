@@ -7,4 +7,5 @@ tech:
   - Swift
   - SwiftUI
 showInProjects: true
+company: 'Personal'
 ---

@@ -8,4 +8,5 @@ tech:
   - UIKit
   - RxSwift
 showInProjects: false
+company: 'Mango Byte'
 ---
