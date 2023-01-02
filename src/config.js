@@ -8,11 +8,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/hipporasy__',
+      url: 'https://www.instagram.com/admiral__hippo/',
     },
     {
-      name: 'Youtube',
-      url: 'https://www.youtube.com/channel/UCT1kUMoQLbU5jhUfTBl5jPA',
+      name: 'YouTube',
+      url: 'https://www.youtube.com/channel/@hipporasy',
     },
     {
       name: 'Linkedin',
