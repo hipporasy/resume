@@ -10,3 +10,4 @@ company: 'Personal'
 showInProjects: true
 ---
 
+I love music so much, Spotify is one of my favorite App. Seeing someone remake Spotify's design I just like it so I decided to give it a shot to develop it on Flutter.

@@ -9,3 +9,5 @@ tech:
 company: 'Personal'
 showInProjects: false
 ---
+
+I randomly check the SketchAppResource seeing UI designed by [Atiqur Rahaman](https://www.sketchappsources.com/contributor/atiqurrahaman) and I found that it is very nice for to work on. I decided to make it happen in Flutter. I even do the `live coding` in YouTube for this project. Though, it is not completed but some UI look pretty good. [Source Design](https://www.sketchappsources.com/free-source/4631-travel-app-concept-sketch-freebie-resouce.html)
