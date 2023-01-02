@@ -1,14 +1,12 @@
 ---
-date: '2023-01-01'
-title: 'Steam'
+date: '3'
+title: 'Steam Concept'
+cover: './steam.png'
 github: 'https://github.com/hipporasy/steam'
-youtube: 'https://github.com/hipporasy/steam'
 tech:
   - SwiftUI
   - Swift
   - SFSymbols
-company: 'Personal'
-showInProjects: true
 ---
 
 The Steam App Concept redesign by [Oleg Pirogov](https://www.sketchappsources.com/free-source/4787-steam-mobile-app-concept-sketch-freebie-resource.html). 

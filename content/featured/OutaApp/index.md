@@ -2,8 +2,8 @@
 date: '2'
 title: 'OutaApp'
 cover: './demo.png'
-github: 'https://github.com/hipporasy'
 ios: 'https://apps.apple.com/en/app/outa-meditation-schlaf/id1534938637'
+external: 'https://outa.app'
 tech:
   - SwiftUI
   - Strapi Api

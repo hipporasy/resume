@@ -164,8 +164,7 @@ const About = () => {
             <p>
               Now I moved to <a href="https://www.melbourne.vic.gov.au">Melbourne</a> to study at {' '}
               <a href="https://www.swinburne.edu.au">Swinburne University of Technology</a> {' '}
-              for my master degree in {' '} Business Information System.
-              I am currently looking for a contract/part-time position as iOS Developer here in Melbourne.
+              for my master degree in {' '} Business Information Systems.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '5'
 title: 'Notely'
 cover: './notely.jpg'
 github: 'https://github.com/hipporasy/swiftui.notely-ios'

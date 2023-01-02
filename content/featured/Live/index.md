@@ -4,7 +4,7 @@ title: 'LIVE. by Wonderpass'
 cover: './live.jpg'
 android: 'https://wonderpass.asia/download/app'
 ios: 'https://wonderpass.asia/download/app'
-external: 'https://wonderpass.asia/download/app'
+cta: 'https://wonderpass.asia'
 tech:
   - Swift
   - RxSwift

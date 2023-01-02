@@ -1,9 +1,9 @@
 ---
-date: '3'
+date: '4'
 title: 'Build a PetAdoption App'
 cover: './demo.jpeg'
-external: 'https://github.com/hipporasy/pet-adoption'
-cta: 'https://www.youtube.com/watch?v=9lboESQP9xY'
+github: 'https://github.com/hipporasy/pet-adoption'
+youtube: 'https://www.youtube.com/watch?v=9lboESQP9xY'
 tech:
   - SwiftUI
   - SF Symbols

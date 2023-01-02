@@ -3,6 +3,7 @@ date: '2020-03-27'
 title: 'LIVE. by Wonderpass'
 github: ''
 external: 'https://live.wonderpass.asia'
+ios: 'https://wonderpass.asia/download/app'
 tech:
   - Swift
   - UIKit

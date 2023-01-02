@@ -2,7 +2,7 @@
 date: '2021-12-01'
 title: 'Outa'
 github: 'https://github.com/hipporasy'
-external: 'https://apps.apple.com/en/app/outa-meditation-schlaf/id1534938637'
+ios: 'https://apps.apple.com/en/app/outa-meditation-schlaf/id1534938637'
 tech:
   - SwiftUI
   - Strapi Api

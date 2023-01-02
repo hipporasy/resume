@@ -2,7 +2,6 @@
 date: '2022-05-20'
 title: 'BeerWarden'
 github: 'https://github.com/hipporasy/beerwarden'
-external: 'https://github.com/hipporasy/beerwarden'
 tech:
   - Flutter
   - Dart

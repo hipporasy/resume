@@ -323,6 +323,9 @@ const Featured = () => {
               github
               external
               cta
+              ios
+              android
+              youtube
             }
             html
           }
@@ -355,7 +358,7 @@ const Featured = () => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover, cta } = frontmatter;
+            const { external, title, tech, github, cover, cta, ios, android, youtube } = frontmatter;
             const image = getImage(cover);
 
             return (
@@ -395,6 +398,21 @@ const Featured = () => {
                       {external && !cta && (
                         <a href={external} aria-label="External Link" className="external">
                           <Icon name="External" />
+                        </a>
+                      )}
+                      {ios && (
+                        <a href={ios} aria-label="Appstore Link">
+                          <Icon name="AppStore" />
+                        </a>
+                      )}
+                      {android && (
+                        <a href={android} aria-label="Playstore Link">
+                          <Icon name="PlayStore" />
+                        </a>
+                      )}
+                      {youtube && (
+                        <a href={youtube} aria-label="YouTube Link">
+                          <Icon name="YouTube" />
                         </a>
                       )}
                     </div>
