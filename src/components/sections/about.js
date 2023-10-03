@@ -162,9 +162,9 @@ const About = () => {
             </p>
 
             <p>
-              Now I moved to <a href="https://www.melbourne.vic.gov.au">Melbourne</a> to study at {' '}
-              <a href="https://www.swinburne.edu.au">Swinburne University of Technology</a> {' '}
-              for my master degree in {' '} Business Information Systems.
+              I have relocated to <a href="https://www.melbourne.vic.gov.au">Melbourne</a>
+              and am currently employed as a Software Engineer at  <a href="https://bilue.com.au">Bilue</a> ,
+              while also pursuing my master's degree in Business Information Systems at <a href="https://www.swinburne.edu.au">Swinburne University of Technology</a>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
