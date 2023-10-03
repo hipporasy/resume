@@ -162,7 +162,7 @@ const About = () => {
             </p>
 
             <p>
-              I have relocated to <a href="https://www.melbourne.vic.gov.au">Melbourne</a>
+              I have relocated to <a href="https://www.melbourne.vic.gov.au">Melbourne</a>{' '}
               and am currently employed as a Software Engineer at  <a href="https://bilue.com.au">Bilue</a> ,
               while also pursuing my master's degree in Business Information Systems at <a href="https://www.swinburne.edu.au">Swinburne University of Technology</a>.
             </p>
