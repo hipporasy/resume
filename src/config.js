@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'YouTube',
-      url: 'https://www.youtube.com/channel/@hipporasy',
+      url: 'https://www.youtube.com/@hipporasy',
     },
     {
       name: 'Linkedin',
