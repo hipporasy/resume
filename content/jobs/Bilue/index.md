@@ -7,5 +7,7 @@ range: 'Jan 2023 - Present'
 url: 'https://bilue.com.au'
 ---
 - Spcialist in Android, iOS, and Flutter
-- Getting in hand of NIB Project
+- Working on nib Android App 
+- Uplift the design to Material Design 3 
+- Migrate from Android View to Jetpack Compose
 
