@@ -1,3 +1,4 @@
+---
 date: '1'
 title: 'EduTail: AI Tales & Stories'
 cover: './cover.png'
