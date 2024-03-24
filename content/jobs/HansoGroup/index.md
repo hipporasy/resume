@@ -3,7 +3,7 @@ date: '2021-02-01'
 title: 'SwiftUI Developer'
 company: 'Hanso Group'
 location: 'Singapore'
-range: 'April 2021 to Present'
+range: 'April 2021 to February 2023'
 url: 'https://hanso.group'
 ---
 
