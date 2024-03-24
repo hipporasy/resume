@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'OutaApp'
 cover: './demo.png'
 ios: 'https://apps.apple.com/en/app/outa-meditation-schlaf/id1534938637'
