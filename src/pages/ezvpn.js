@@ -1,9 +1,9 @@
 import React from 'react';
 const PrivacyPolicy = () => {
   const contactEmail = 'hipporasy@gmail.com';
-  const effectiveDate = 'February 24, 2024';
-  const appName = 'Moodivation: your AI motivator';
-  const developerName = 'Marasy Phi';
+  const effectiveDate = 'January 07, 2025';
+  const appName = 'EzVPN';
+  const developerName = 'Ez4Kh';
 
   return (
     <div>
